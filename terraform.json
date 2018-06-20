@@ -2,26 +2,26 @@
     "ec2_instance_id": {
         "sensitive": false,
         "type": "string",
-        "value": "i-05fe6da672ffe6b3c"
+        "value": "i-07b70b60e1cd46d3c"
     },
     "private_subnet_id": {
         "sensitive": false,
         "type": "string",
-        "value": "subnet-0003c7e34524eaf5c"
+        "value": "subnet-06f2a7c49b434e46d"
     },
     "public_subnet_id": {
         "sensitive": false,
         "type": "string",
-        "value": "subnet-02b07ecdefedb59da"
+        "value": "subnet-02b0b64116ed8e845"
     },
     "security_group_id": {
         "sensitive": false,
         "type": "string",
-        "value": "sg-083ddc165223a7900"
+        "value": "sg-08813d3db6c308ed5"
     },
     "vpc_id": {
         "sensitive": false,
         "type": "string",
-        "value": "vpc-0cbd3e9d628555512"
+        "value": "vpc-0d151b34438b70ebe"
     }
 }
