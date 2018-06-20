@@ -2,26 +2,46 @@
     "ec2_instance_id": {
         "sensitive": false,
         "type": "string",
+<<<<<<< HEAD
         "value": "i-07d8de232ee63edd4"
+=======
+        "value": "i-0e6290d28ba46205e"
+>>>>>>> 4fad16750c0018e82438fa6128d80e7d2b07ff3f
     },
     "private_subnet_id": {
         "sensitive": false,
         "type": "string",
+<<<<<<< HEAD
         "value": "subnet-0ebc88725368e5cc9"
+=======
+        "value": "subnet-059c91298071abfaa"
+>>>>>>> 4fad16750c0018e82438fa6128d80e7d2b07ff3f
     },
     "public_subnet_id": {
         "sensitive": false,
         "type": "string",
+<<<<<<< HEAD
         "value": "subnet-04ca6de03e03cc4cd"
+=======
+        "value": "subnet-014d4198e5591c4c9"
+>>>>>>> 4fad16750c0018e82438fa6128d80e7d2b07ff3f
     },
     "security_group_id": {
         "sensitive": false,
         "type": "string",
+<<<<<<< HEAD
         "value": "sg-00a1fe4f88912932d"
+=======
+        "value": "sg-0eab3aca3f3067605"
+>>>>>>> 4fad16750c0018e82438fa6128d80e7d2b07ff3f
     },
     "vpc_id": {
         "sensitive": false,
         "type": "string",
+<<<<<<< HEAD
         "value": "vpc-0acd03a797fa5109e"
+=======
+        "value": "vpc-04adfe5bb762702df"
+>>>>>>> 4fad16750c0018e82438fa6128d80e7d2b07ff3f
     }
 }
