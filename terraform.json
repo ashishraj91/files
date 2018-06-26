@@ -2,7 +2,7 @@
     "ec2_instance_id": {
         "sensitive": false,
         "type": "string",
-        "value": "i-02f93dfe77485e4a8"
+        "value": "i-033204f33236f03c7"
     },
     "private_subnet_id": {
         "sensitive": false,
